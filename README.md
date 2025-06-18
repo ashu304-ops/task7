@@ -1,4 +1,4 @@
-##  Kubernetes + Jenkins + Ansible on RHEL with `kubeadm`
+
 
 #  Kubernetes Cluster Setup with Jenkins + Ansible on RHEL using kubeadm
 
